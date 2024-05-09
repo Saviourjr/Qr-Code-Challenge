@@ -59,8 +59,8 @@ I learnt how to justify a container using a max/min height and weight.I've been 
     top: 25%;
     text-align: center;
     width: 375px;} 
-
-Continued development
+```
+Continued development:
 I would like to make my own QR Generator so this could be used as a default template.
 
 The qr code could be links to a document or something along those ways. Going to think about something useful that could come in handy.
